@@ -1,4 +1,4 @@
-#Task Management Website(planit) - UI/UX Design
+Task Management Website(planit) - UI/UX Design
 This repository showcases the UI/UX design for a Task Management Website, aimed at streamlining task coordination and team collaboration. The design integrates essential features for efficient task management and communication. Key features include:
 
 Task Creation and Date Setting: Create and organize tasks with the ability to set deadlines and due dates for better time management.
